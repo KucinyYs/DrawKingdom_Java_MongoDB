@@ -18,7 +18,7 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-mongodb</artifactId>
-			<version>1.6.0.RELEASE</version>
+			<version>4.2.11</version>
 		</dependency>
 
 		<dependency>
@@ -50,7 +50,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
-			<version>4.0.7.RELEASE</version>
+			<version>6.1.14</version>
 		</dependency>
 
 	</dependencies>
